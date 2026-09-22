@@ -1,6 +1,6 @@
 # Learning Portal 🎓
 
-A full-stack online learning platform built with **Spring Boot** and **React**. Supports three roles — Admin, Instructor, and Learner — with JWT-based authentication, course management, lesson tracking, and enrollment system.
+A full-stack online learning platform built with **Spring Boot** and **React**. Supports three roles — Admin, Instructor, and Learner — with JWT-based authentication, course management, lesson tracking, and enrollment system. I didn't add front end cuz it's way too large , my bad.
 
 ---
 
